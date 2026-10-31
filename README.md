@@ -15,3 +15,5 @@ The pipeline is divided into two distinct computational domains:
 
 ## Results
 The model successfully converges, minimizing Binary Cross Entropy (BCE) loss across 10 epochs. The network demonstrates the capability of replacing manual light-curve inspection with automated, high-throughput AI screening.
+
+![results](results.png)
